@@ -1,2 +1,2 @@
 # NBA_Pred
-Meet our "NBA Position Prediction 2022" project. We use data and smart tech to guess where players will play in the upcoming NBA season. Join us to learn more about the game and make better choices if you love basketball!
+In this project, we'll use Python to predict how NBA teams might rank in the 2022 season, using past data and machine learning to make educated guesses about their performance. We'll analyze important stats and apply prediction techniques to give an idea of how teams could do in the upcoming season.
